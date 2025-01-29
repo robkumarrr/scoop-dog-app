@@ -1,0 +1,8 @@
+Components for React Native Paper
+https://callstack.github.io/react-native-paper/docs/components/ActivityIndicator/
+
+Bottom Tab Navigator
+https://reactnavigation.org/docs/bottom-tab-navigator
+
+Material Icons
+https://pictogrammers.com/library/mdi/
